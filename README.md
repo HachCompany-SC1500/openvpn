@@ -1,2 +1,0 @@
-# openvpn
-openvpn communication tunnel
